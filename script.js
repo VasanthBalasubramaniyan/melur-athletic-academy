@@ -186,3 +186,4 @@ function openWhatsApp(phoneNumber, message = '') {
     window.open(`https://wa.me/${formattedNumber}?text=${encodedMessage}`, '_blank');
 }
 
+
